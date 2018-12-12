@@ -1,1 +1,1 @@
-p "hello world on a different branch"
+p "hello world on a different branch called 'message'"
